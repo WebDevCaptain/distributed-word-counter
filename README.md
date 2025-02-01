@@ -75,3 +75,9 @@ but: 1
 Spark: 5
 scalable: 1
 ```
+
+---
+
+## License Information
+
+This project is released under the [MIT License](LICENSE).
